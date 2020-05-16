@@ -1,31 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@jbusecke
-pangeo-data /
-pangeo-example-notebooks
-
-13
-57
-
-    41
-
-Code
-Issues 9
-Pull requests 2
-Actions
-Projects 0
-Wiki
-Security 0
-
-    Insights
-
-pangeo-example-notebooks/.dask/config.yaml
-@jhamman jhamman update binder environment f380ea8 on Oct 30, 2018
-42 lines (38 sloc) 753 Bytes
 fuse_subgraphs: False
 fuse_ave_width: 0
 
