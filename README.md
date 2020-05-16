@@ -1,4 +1,7 @@
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/jbusecke/earthcube2020_cmip6_xgcm/master?filepath=busecke_abernathey_earthcube2020.ipynb)
+
 # CMIP6 without the interpolation: Grid-native analysis with Pangeo in the cloud.
+
 *Julius Busecke, Ryan Abernathey*
 
 The Pangeo project recently introduced large parts of the CMIP6 data archive into the cloud. This enables, for the first time, centralized, reproducible science of state-of-the-art climate simulations without the need to own large storage or a supercomputer as a user.
