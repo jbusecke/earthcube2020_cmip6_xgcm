@@ -261,16 +261,16 @@ dependencies:
   - zstd=1.4.4=h6597ccf_3
   - pip:
     - appdirs==1.4.4
-    - cmip6-preprocessing==earthcube-commit-13.g22bed23
     - docrep==0.2.7
     - fastprogress==0.2.3
     - future==0.18.2
     - intake==0.6.0
-    - intake-esm==2020.6.11
     - pyqt5-sip==4.19.18
     - pyqtchart==5.12
     - pyqtwebengine==5.12.1
     - xarray==0.15.1
-    - xgcm==0.3.0+14.ga4a9498
+    - git+https://github.com/jbusecke/cmip6_preprocessing.git@22bed2386dcbea32d430c7c88fad8725fa51ec36
+    - git+https://github.com/xgcm/xgcm.git@a4a94980fc23556a532141cf29a43379189e547a
+    - git+https://github.com/NCAR/intake-esm.git@ab06b86756548498dbd25a4320f19f9d80fc02ae
 prefix: /srv/conda/envs/earthcube-notebook-jbusecke
 
