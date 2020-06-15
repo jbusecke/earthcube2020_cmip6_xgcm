@@ -271,6 +271,7 @@ dependencies:
     - xarray==0.15.1
     - git+https://github.com/jbusecke/cmip6_preprocessing.git@22bed2386dcbea32d430c7c88fad8725fa51ec36
     - git+https://github.com/xgcm/xgcm.git@a4a94980fc23556a532141cf29a43379189e547a
-    - git+https://github.com/NCAR/intake-esm.git@ab06b86756548498dbd25a4320f19f9d80fc02ae
+    - git+https://github.com/NCAR/intake-esm.git@v2020.06.11
+    # ab06b86756548498dbd25a4320f19f9d80fc02ae
 prefix: /srv/conda/envs/earthcube-notebook-jbusecke
 
