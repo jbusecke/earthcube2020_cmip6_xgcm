@@ -6,7 +6,6 @@ dependencies:
   - cftime
   - fsspec
   - gcsfs
-  - intake-esm
   - matplotlib
   - nc-time-axis
   - netcdf4
@@ -17,6 +16,7 @@ dependencies:
   - watermark
   - zarr
   - pip:
-      - git+https://github.com/jbusecke/cmip6_preprocessing.git@new_grids_module
+      - git+https://github.com/jbusecke/cmip6_preprocessing.git@refs/pull/46/head
       - git+https://github.com/xgcm/xgcm.git
+      - git+https://github.com/NCAR/intake-esm.git
       
